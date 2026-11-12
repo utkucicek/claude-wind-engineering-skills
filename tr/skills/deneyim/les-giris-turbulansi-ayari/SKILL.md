@@ -35,6 +35,7 @@ Bu beceri bir standardın özeti değildir. Tek bir projede (yüksek bina, çevr
 ## Bilinmesi gerekenler
 
 - **Türbülans akış boyunca değişir.** Aynı koşuda bina yüksekliğinde hedefe oran girişten 60 m'de 2,06, 350–500 m'de yaklaşık 1,2, gelen konumda 1,05 ölçüldü. Rüzgâr tünelinde tabla boyunca böyle bir değişim beklenmez; boş alan raporunda akış yönündeki değişimi de verin.
+- **Doğrulamanın yeri önemlidir.** Çevre binalar açıkça modellenmişse CWE ön standardı gelen konumu hedef binaya değil, en rüzgâr üstündeki binaya koyar. Bu projede ölçüt hedef binanın yerinde sağlandı, çevrenin rüzgâr üstü kenarında sağlanmadı.
 - **Alt kotlar ayrı davranır.** Üst yarı ±%10 içindeyken bina yüksekliğinin dörtte birinde oran 0,82 kaldı. Ortalama ölçütü geçse bile bunu raporda yazın.
 - **Girişte yere yakın ters akış olabilir.** Büyütülmüş girişte yere yakın anlık hız eksiye düştü (5 m'de zamanın %6'sı). Giriş sınırının bunu nasıl ele aldığını denetleyin.
 - **Kısa kayıt.** En yavaş dalga kayda bir kez sığıyorsa düşük frekans istatistiği belirsizdir; süre şartı için `bos-alan-dogrulamasi` becerisine bakın.

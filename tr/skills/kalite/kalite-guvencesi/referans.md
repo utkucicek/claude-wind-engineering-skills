@@ -63,8 +63,8 @@ Bu satırların asıl maddeleri kendi bölümlerinde ZORUNLU ("shall") diye yaz�
 | AC 5-1 | Tablo | Alan boyutu şartları. | tabloda yok | 83 |
 | PO 5-2 | Tablo | Rüzgâr yükleri için küçük ölçekli türbülansı yakalayacak ağ çözünürlüğü. | tabloda yok | 83 |
 | AC 5-2 | Tablo | Kaplama ve genel yükler için en büyük çözülen indirgenmiş frekans şartları. | tabloda yok | 83 |
-| PO 5-3 | Tablo | Hedef türbülanslı rüzgâr koşullarının olay konumunda yeniden üretilmesi. | tabloda yok | 83 |
-| AC 5-3 | Tablo | Tüm farklı maruziyet koşulları ve tüm rüzgâr yönleri için olay konumundaki türbülanslı akış kalitesinin gösterilmesi (kabul düzeyleri için tablo "A.C. 5-8" der; kabul şartı satırı 5-9'dur — PDF'ten doğrulanmalı). | tabloda yok | 83 |
+| PO 5-3 | Tablo | Hedef türbülanslı rüzgâr koşullarının gelen konumnda yeniden üretilmesi. | tabloda yok | 83 |
+| AC 5-3 | Tablo | Tüm farklı maruziyet koşulları ve tüm rüzgâr yönleri için gelen konumndaki türbülanslı akış kalitesinin gösterilmesi (kabul düzeyleri için tablo "A.C. 5-8" der; kabul şartı satırı 5-9'dur — PDF'ten doğrulanmalı). | tabloda yok | 83 |
 | PO 5-4 | Tablo | Alan zemin yüzeyi için sınır koşulları. | tabloda yok | 83 |
 | AC 5-4 | Tablo | Hedef zemin pürüzlülüğünün modellenmesi (tabloda "A.O. 3-3" göndermesi). | tabloda yok | 83 |
 | PO 5-5 | Tablo | Alanın yan, üst ve çıkış sınır koşulları. | tabloda yok | 83 |
@@ -75,8 +75,8 @@ Bu satırların asıl maddeleri kendi bölümlerinde ZORUNLU ("shall") diye yaz�
 | AC 5-7 | Tablo | Bina yüksekliğinde ortalama hız ve türbülans şiddetlerinin yakınsama raporu. | tabloda yok | 84 |
 | PO 5-8 | Tablo | Yaklaşım akışı için rüzgâr ve basınç alanının fiziksel olarak tutarlı temsili. | tabloda yok | 84 |
 | AC 5-8 | Tablo | Hız ve basınç alanlarının görselleştirilmesi. | tabloda yok | 84 |
-| PO 5-9 | Tablo | Olay konumunda hedef akış parametrelerinin doğru sunumu. | tabloda yok | 84 |
-| AC 5-9 | Tablo | Olay konumunda (tabloda "incipient") hem açıklık ortasında hem açıklığın 1/3 konumlarında akış özellikleri için kabul şartları (hedef değerler için 3-2 ve 3-3). | konum: orta ve 1/3 açıklık; eşikler tabloda yok | 84 |
+| PO 5-9 | Tablo | Gelen konumnda hedef akış parametrelerinin doğru sunumu. | tabloda yok | 84 |
+| AC 5-9 | Tablo | Gelen konumnda (tabloda "incipient") hem açıklık ortasında hem açıklığın 1/3 konumlarında akış özellikleri için kabul şartları (hedef değerler için 3-2 ve 3-3). | konum: orta ve 1/3 açıklık; eşikler tabloda yok | 84 |
 | PO 5-10 | Tablo | Uygun ağ çözünürlüğü. | tabloda yok | 84 |
 | AC 5-10 | Tablo | Rüzgâr spektrumu kesme frekansı eylemsizlik alt aralığında yer alır. | tabloda yok | 84 |
 
